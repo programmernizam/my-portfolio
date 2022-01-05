@@ -50,18 +50,17 @@ p{
 .hero-section{
     width: 80%;
     margin: 0 auto;
-    padding: 100px 0;
+    padding: 50px 0;
 }
 .hero-section p{
     width: 80%;
-    margin: 40px 0;
 }
 .hero-section img{
     margin-left: 20%;
 }
 .mission-section{
     width: 80%;
-    margin:50px auto;
+    margin:0 auto;
     padding: 0 5%;
 }
 .mission-section h2{
@@ -95,4 +94,19 @@ p{
 }
 .community-section img{
     margin-left: 20%;
+}
+.about-section{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.footer-section{
+    background: #0B0D17;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px 0;
+}
+.footer-section p{
+    color: #ffffff;
+    font-size: 12px;
 }
