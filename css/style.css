@@ -56,6 +56,9 @@ p{
     width: 80%;
     margin: 40px 0;
 }
+.hero-section img{
+    margin-left: 20%;
+}
 .mission-section{
     width: 80%;
     margin:50px auto;
@@ -82,7 +85,14 @@ p{
 .col-3 img{
     width: 50%;
 }
-.about-section{
+.develop-section{
     width: 80%;
-    margin: 0 auto;
+    margin: 50px auto;
+}
+.community-section{
+    width: 80%;
+    margin: 50px auto;
+}
+.community-section img{
+    margin-left: 20%;
 }
